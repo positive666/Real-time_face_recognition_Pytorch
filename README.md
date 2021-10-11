@@ -4,6 +4,8 @@
 
 # Provides a complete face recognition project, reasoning part of the script provided/提供一个完整的人脸项目，目前上传一部分可直接使用，后续待补充模型训练代码以及优化,链接Deepstream的C++ sdk参考使用
 
+deepstream face:[Deppstrhttps://github.com/positive666/Deepstream_Project/tree/main/Deepstream_Face]
+
 #News
 
 
