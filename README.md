@@ -30,7 +30,7 @@ deepstream face:[Deppstrhttps://github.com/positive666/Deepstream_Project/tree/m
     # With pip:
     pip install requirements.txt
     
-    
+    ``` 
     
 2. prepare models and  embeddings_face_data
 
@@ -42,13 +42,14 @@ deepstream face:[Deppstrhttps://github.com/positive666/Deepstream_Project/tree/m
 	 
 	 note!!!  Keep the same number of images for each face category in your feature library!!!!!!!!
 	 
+	 ``` 
 	 python face_embedding.py   
-	 
+	 ``` 
 	 
      Generating a feature library in your  Program Root
 	 
 3. How to run
-    
+    ``` 
      python test_facenet.py  --conf_thres 0.45 --weights ./new.onnx    --source (your test data path)  --embeddings_face  (your face_embedding path)  
 
 
