@@ -10,7 +10,7 @@ deepstream face:[https://github.com/positive666/Deepstream_Project/tree/main/Dee
 ## News
 
 
-  1.add Face Detection (cebterface/yolov5_face) 
+  1.add Face Detection (cenerface/yolov5_face) 
   
   2.add facenet
   
